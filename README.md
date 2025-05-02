@@ -42,7 +42,7 @@
 - 🛑 **DriveAlert** – Real-time **CNN**-based drowsiness detection system on **Raspberry Pi** using **OpenCV** and **Dlib**
 - ☁️ **Vehicle Insurance Prediction** – Complete **MLOps pipeline** with **FastAPI**, **Docker**, **AWS (EC2, S3, ECR)**, and **CI/CD**
 - 🎬 **CineMatch** – **NLP**-powered personalized movie recommender system with TMDb API & **cosine similarity**
-- 🏅 **Olympics Data Pipeline** – End-to-end **Azure data engineering pipeline** using **ADF**, **Databricks**, **Delta Live Tables**, and **Unity Catalog**
+- 🏅 **Olympics Data Pipeline** – End-to-end **Azure data engineering pipeline** using **ADF**,**ADO**, **Databricks**, and **Delta Live Tables**
 - 📈 **Loan Performance Dashboard** – Interactive **Power BI** dashboard using **MySQL** backend for loan KPI insights
 
 ---
