@@ -56,13 +56,5 @@
 
 ---
 
-### 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-00&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Sanjay-00&theme=tokyonight" width="48%"/>
-</p>
-
----
 
 <h4 align="center">_Always building, always learning._ 🔍</h4>
