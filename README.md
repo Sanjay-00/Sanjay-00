@@ -1,5 +1,5 @@
-# Hi there 👋  
-I'm Sanjay Dutta — a final-year undergrad at MNNIT Allahabad, passionate about building intelligent systems with Machine Learning and Deep Learning.
+<h1 align="center">Hi there 👋, I'm Sanjay Dutta</h1>
+<h3 align="center">Final-year Undergrad at MNNIT Allahabad | Passionate about Machine Learning & Deep Learning</h3>
 
 ---
 
@@ -7,9 +7,9 @@ I'm Sanjay Dutta — a final-year undergrad at MNNIT Allahabad, passionate about
 
 🔬 I'm deeply interested in **Deep Learning**, **Computer Vision**, and **MLOps**, and enjoy crafting real-world solutions powered by AI.
 
-🚀 I've built end-to-end ML pipelines, deployed models in the cloud, and worked with CNNs for real-time drowsiness detection and personalized recommendation systems.
+🚀 I've built end-to-end ML pipelines, deployed models in the cloud, and worked with **CNNs** for real-time drowsiness detection and personalized recommendation systems.
 
-🔧 My tech stack includes Python, TensorFlow, Keras, FastAPI, Docker, GitHub Actions, AWS, Azure, and Power BI.
+🔧 My tech stack includes **Python**, **TensorFlow**, **Keras**, **FastAPI**, **Docker**, **GitHub Actions**, **AWS**, **Azure**, and **Power BI**.
 
 💡 I love building modular, scalable solutions that combine automation, performance, and interpretability.
 
@@ -17,28 +17,34 @@ I'm Sanjay Dutta — a final-year undergrad at MNNIT Allahabad, passionate about
 
 ### 💻 Tech Highlights
 
-- **ML & DL**: CNNs, scikit-learn, TensorFlow/Keras, NLP (NLTK), OpenCV  
-- **MLOps**: FastAPI, Docker, GitHub Actions, AWS (EC2, S3, ECR), Azure  
-- **Data Engineering**: ADF, Databricks, PySpark, SQL, MongoDB  
-- **Visualization**: Power BI, Seaborn, Matplotlib
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
 ### 📌 Projects at a Glance
 
-- 🛑 **DriveAlert** – Real-time Computer Vision and CNN-based drowsiness detection on Raspberry Pi  
-- ☁️ **Vehicle Insurance Prediction** – MLOps pipeline with CI/CD, FastAPI, AWS using Random Forest classifier   
-- 🎬 **CineMatch** – NLP-based movie recommender using cosine similarity  
-- 🏅 **Olympics Data Pipeline** – Azure ETL with Medallion architecture using DLT
-- 📈 **Loan Performance Dashboard**: Power BI + SQL dashboard for loan KPIs 
+- 🛑 **DriveAlert**: Real-time **Computer Vision** and **CNN**-based drowsiness detection on Raspberry Pi
+- ☁️ **Vehicle Insurance Prediction**: End-to-end **MLOps** pipeline with CI/CD, **FastAPI**, **AWS**, and **Random Forest** classifier
+- 🎬 **CineMatch**: **NLP**-based movie recommender system using **cosine similarity**
+- 🏅 **Olympics Data Pipeline**: **Azure ETL** pipeline with Medallion architecture using **Delta Live Tables**
+- 📈 **Loan Performance Dashboard**: Interactive **Power BI** + **SQL** dashboard for loan KPIs 
 
 ---
 
 ### 📚 Currently Exploring
 
-- ⚙️ Transformer models and fine-tuning  
-- 📈 Generative AI , LLMs , Agentic AI 
-- 🌐 Scalable deployment + Cloud services
+- ⚙️ **Transformer models** and **fine-tuning** (HuggingFace, BERT, GPT)
+- 📈 **Generative AI**, **LLMs**, and **Agentic AI** (LangChain, Autonomous Agents)
+- 🌐 **Scalable deployment** using **Cloud Services** (AWS, Azure, Docker)
 
 ---
 
@@ -50,4 +56,13 @@ I'm Sanjay Dutta — a final-year undergrad at MNNIT Allahabad, passionate about
 
 ---
 
-_Always building, always learning._ 🔍
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-00&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Sanjay-00&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+<h4 align="center">_Always building, always learning._ 🔍</h4>
