@@ -16,30 +16,21 @@
 - 🔬 Currently exploring Transformers, LLMs, and Agentic AI
 
 ---
+### 💻 Tech Stack
 
-### 🚀 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Databricks-E87200?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+</p>
 
-#### 🧠 ML / DL  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
-![NLP](https://img.shields.io/badge/-NLP-6A1B9A?style=for-the-badge)
-
-#### ⚙️ MLOps / Cloud  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
-
-#### 🧰 Data Engineering / BI  
-![Databricks](https://img.shields.io/badge/-Databricks-E74C3C?logo=databricks&logoColor=white&style=for-the-badge)
-![ADF](https://img.shields.io/badge/-Data%20Factory-005B9A?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![PySpark](https://img.shields.io/badge/-PySpark-FA7343?logo=apachespark&logoColor=white&style=for-the-badge)
 
 ---
 
