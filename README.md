@@ -22,13 +22,20 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Databricks-E87200?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PySpark-E34A1F?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Always%20Learning-FFD700?style=flat&logo=bookstack&logoColor=black" />
+
 </p>
 
 
@@ -54,7 +61,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 [sanjaydutta2830@gmail.com](mailto:sanjaydutta2830@gmail.com)  
+- 📧 [Gmail](mailto:sanjaydutta2830@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-dutta-9a9240227/)  
 - 💻 [GitHub](https://github.com/Sanjay-00)
 
