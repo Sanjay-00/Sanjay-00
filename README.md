@@ -2,10 +2,12 @@
 <h3 align="center">Final-year Undergrad at MNNIT Allahabad | Data Enthusiast | ML • DL • Cloud • MLOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Building+Real-world+ML+Solutions;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Building+Real-world+ML+Solutions;Data+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 🧠 About Me
 
@@ -15,9 +17,11 @@
 - 💡 Built and deployed several **end-to-end ML pipelines**, including real-time **CV** apps and **cloud-native ML APIs**
 - 🔬 Currently exploring Transformers, LLMs, and Agentic AI
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 ### 💻 Tech Stack
-
+--
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
@@ -35,7 +39,9 @@
 </p>
 
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 🚀 Featured Projects
 
@@ -45,7 +51,9 @@
 - 🏅 **Olympics Data Pipeline** – End-to-end **Azure data engineering pipeline** using **ADF**,**ADO**, **Databricks**, and **Delta Live Tables**
 - 📈 **Loan Performance Dashboard** – Interactive **Power BI** dashboard using **MySQL** backend for loan KPI insights
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 🔍 Currently Exploring
 
@@ -53,7 +61,9 @@
 - 📈 **Generative AI**, **LLMs**, and **Agentic workflows**
 - 🌐 **Cloud-native deployment at scale** (E2E pipelines + observability)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
 ### 📫 Connect with Me
 
