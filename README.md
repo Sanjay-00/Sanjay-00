@@ -2,7 +2,7 @@
 <h3 align="center">Final-year Undergrad at MNNIT Allahabad | Data Enthusiast | ML • DL • Cloud • MLOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Data+Scientist+in+progress...;Building+Real-world+ML+Solutions;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Building+Real-world+ML+Solutions;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
