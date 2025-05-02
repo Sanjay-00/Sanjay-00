@@ -1,5 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Sanjay Dutta</h1>
-<h3 align="center">Final-year Undergrad at MNNIT Allahabad | Data Enthusiast | ML • DL • Cloud • MLOps</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Hi%2C%20I'm%20Sanjay%20Dutta&fontSize=40&fontColor=ffffff&desc=Final-year%20Undergrad%20at%20MNNIT%20Allahabad&descSize=20&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" alt="header" />
+</div>
+
+<h3 align="center">Data Enthusiast | ML • DL • NLP • Cloud • MLOps | Continuous Learning </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Building+Real-world+ML+Solutions;Data+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
@@ -9,7 +12,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
 
-### 🧠 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
 
 - 🎓 Final-year undergrad at **MNNIT Allahabad**
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, **NLP**, **Cloud**, and **MLOps**
@@ -20,8 +24,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
-### 💻 Tech Stack
---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
@@ -43,7 +49,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
 
-### 🚀 Featured Projects
+## <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> Featured Projects
 
 - 🛑 **DriveAlert** – Real-time **CNN**-based drowsiness detection system on **Raspberry Pi** using **OpenCV** and **Dlib**
 - ☁️ **Vehicle Insurance Prediction** – Complete **MLOps pipeline** with **FastAPI**, **Docker**, **AWS (EC2, S3, ECR)**, and **CI/CD**
@@ -55,8 +61,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
 
-### 🔍 Currently Exploring
-
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Currently Exploring
+ 
 - 🧠 **Transformer models**, **Computer Vsison**, and **Recommendation Systems**
 - 📈 **Generative AI**, **LLMs**, and **Agentic workflows**
 - 🌐 **Cloud-native deployment at scale** (E2E pipelines + observability)
@@ -65,12 +71,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
 
-### 📫 Connect with Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">  I love connecting with people
 
 - 📧 [Gmail](mailto:sanjaydutta2830@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-dutta-9a9240227/)  
 - 💻 [GitHub](https://github.com/Sanjay-00)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
+
 
 <h4 align="center">_Always building, always learning._ 🔍</h4>
