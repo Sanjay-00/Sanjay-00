@@ -98,7 +98,8 @@ Interactive Power BI dashboard
 - RAG Systems  
 - LangChain & Agentic Workflows  
 - Observability for ML Systems  
-- Scalable AI Infrastructure  
+- Scalable AI Infrastructure
+- Building a Stateful Multi-Agent AI Blog Generation System (Planner Agent + Research Agent + Writer Agent + Reviewer Agent)
 
 ---
 
