@@ -1,85 +1,113 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Hi%2C%20I'm%20Sanjay%20Dutta&fontSize=40&fontColor=ffffff&desc=Final-year%20Undergrad%20at%20MNNIT%20Allahabad&descSize=20&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=250&section=header&text=Sanjay%20Dutta&fontSize=45&fontColor=ffffff&desc=AI%20%7C%20Data%20Science%20%7C%20MLOps&descSize=22&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" alt="header" />
 </div>
 
-<h3 align="center">Data Enthusiast | ML • DL • NLP • Cloud • MLOps | Continuous Learning </h3>
+<h3 align="center">
+AI Engineer in Progress • Data Scientist • Building Production-Ready ML Systems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3BC2F2&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Building+Real-world+ML+Solutions;Data+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Production-Ready+ML+Pipelines;Computer+Vision+%7C+NLP+%7C+LLMs;Cloud+Native+Deployments;End-to-End+MLOps+Projects;Always+Learning+%26+Shipping" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 🚀 About Me
 
+- 🎓 B.Tech Graduate – MNNIT Allahabad  
+- 💼 Currently working as an Analyst  
+- 🎯 Targeting Data Scientist / AI Engineer roles  
+- ⚙️ Strong focus on **production-grade ML systems**, not just notebooks  
+- 🧠 Exploring **Transformers, LLMs, Agentic AI & Generative AI**
+- ☁️ Experienced in deploying ML systems on **AWS & Azure**
 
-- 🎓 Final-year undergrad at **MNNIT Allahabad**
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **NLP**, **Cloud**, and **MLOps**
-- 🛠️ Love crafting scalable, real-world AI solutions that blend automation with performance
-- 💡 Built and deployed several **end-to-end ML pipelines**, including real-time **CV** apps and **cloud-native ML APIs**
-- 🔬 Currently exploring Transformers, LLMs, and Agentic AI
+I believe AI is not just about models — it’s about **systems, scalability, and impact**.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack
+## 🛠️ Tech Stack
 
+### 👨‍💻 Core
+`Python` • `SQL` • `Statistics` • `Data Structures`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Databricks-E87200?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PySpark-E34A1F?style=flat&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" /
+### 🤖 Machine Learning & AI
+`Scikit-learn` • `TensorFlow` • `OpenCV` • `NLP` • `Transformers` • `LLMs`
 
-</p>
+### ⚙️ MLOps & Backend
+`FastAPI` • `Docker` • `CI/CD` • `GitHub Actions` • `Model Deployment`
 
+### ☁️ Cloud & Data Engineering
+`AWS (EC2, S3, ECR)` • `Azure (ADF, Databricks)` • `PySpark` • `Delta Live Tables`
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+### 📊 BI & Analytics
+`Power BI` • `Excel` • `MySQL`
 
-## <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> Featured Projects
+---
 
-- 🛑 **DriveAlert** – Real-time **CNN**-based drowsiness detection system on **Raspberry Pi** using **OpenCV** and **Dlib**
-- ☁️ **Vehicle Insurance Prediction** – Complete **MLOps pipeline** with **FastAPI**, **Docker**, **AWS (EC2, S3, ECR)**, and **CI/CD**
-- 🎬 **CineMatch** – **NLP**-powered personalized movie recommender system with TMDb API & **cosine similarity**
-- 🏅 **Olympics Data Pipeline** – End-to-end **Azure data engineering pipeline** using **ADF**,**ADO**, **Databricks**, and **Delta Live Tables**
-- 📈 **Loan Performance Dashboard** – Interactive **Power BI** dashboard using **MySQL** backend for loan KPI insights
+## 🏆 Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+### 🛑 DriveAlert  
+Real-time drowsiness detection system deployed on Raspberry Pi  
+- CNN-based eye-state classification  
+- OpenCV + Dlib facial landmark detection  
+- Real-time alert mechanism  
+- Edge deployment optimization  
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Currently Exploring
- 
-- 🧠 **Transformer models**, **Computer Vsison**, and **Recommendation Systems**
-- 📈 **Generative AI**, **LLMs**, and **Agentic workflows**
-- 🌐 **Cloud-native deployment at scale** (E2E pipelines + observability)
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+### ☁️ Vehicle Insurance Prediction (MLOps)  
+End-to-end ML pipeline with production deployment  
+- Modular ML architecture  
+- FastAPI inference server  
+- Dockerized deployment  
+- CI/CD pipeline  
+- AWS (EC2, S3, ECR) integration  
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">  I love connecting with people
+---
 
-- 📧 [Gmail](mailto:sanjaydutta2830@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-dutta-9a9240227/)  
-- 💻 [GitHub](https://github.com/Sanjay-00)
+### 🎬 CineMatch  
+NLP-powered movie recommender  
+- Content-based filtering  
+- Cosine similarity engine  
+- TMDb API integration  
+- Streamlit deployment  
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
+---
 
+### 🏅 Azure Olympics Data Pipeline  
+Enterprise-style Data Engineering pipeline  
+- Azure Data Factory orchestration  
+- Databricks transformations  
+- Delta Live Tables  
+- CI/CD using Azure DevOps  
 
-<h4 align="center">_Always building, always learning._ 🔍</h4>
+---
+
+### 📈 Loan Performance Dashboard  
+Interactive Power BI dashboard  
+- 37,000+ loan records  
+- 15+ KPIs  
+- Backend: MySQL  
+- Business insight driven storytelling  
+
+---
+
+## 🔍 Currently Exploring
+
+- Transformer Architectures  
+- RAG Systems  
+- LangChain & Agentic Workflows  
+- Observability for ML Systems  
+- Scalable AI Infrastructure  
+
+---
+
+## 🌐 Let’s Connect
+
+📧 sanjaydutta2830@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/sanjay-dutta-9a9240227  
+💻 GitHub: https://github.com/Sanjay-00  
+
+---
+
+<h4 align="center">Building intelligent systems. One project at a time.</h4>
