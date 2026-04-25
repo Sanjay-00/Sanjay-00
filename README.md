@@ -1,105 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=250&section=header&text=Sanjay%20Dutta&fontSize=45&fontColor=ffffff&desc=AI%20%7C%20Data%20Science%20%7C%20MLOps&descSize=22&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=250&section=header&text=Sanjay%20Dutta&fontSize=45&fontColor=ffffff&desc=Data%20Analytics%20%7C%20AI%20%7C%20Decision%20Systems&descSize=22&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" alt="header" />
 </div>
 
 <h3 align="center">
-AI Engineer in Progress • Data Scientist • Building Production-Ready ML Systems
+Data Analyst • AI/ML Enthusiast • Building Data-Driven Decision Systems
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Production-Ready+ML+Pipelines;Computer+Vision+%7C+NLP+%7C+LLMs;Cloud+Native+Deployments;End-to-End+MLOps+Projects;Always+Learning+%26+Shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Data+Driven+Decision+Making;Portfolio+%26+Risk+Analytics;SQL+%7C+Python+%7C+Power+BI;From+Data+to+Business+Impact;ML+for+Real-World+Problems" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Graduate – MNNIT Allahabad  
-- 💼 Currently working as an Analyst  
-- 🎯 Targeting Data Scientist / AI Engineer roles  
-- ⚙️ Strong focus on **production-grade ML systems**, not just notebooks  
-- 🧠 Exploring **Transformers, LLMs, Agentic AI & Generative AI**
-- ☁️ Experienced in deploying ML systems on **AWS & Azure**
+- 🎓 B.Tech Graduate - MNNIT Allahabad  
+- 💼 Currently working at **Shriram Finance (Portfolio Analytics)**  
+- 📊 Experience in analyzing **10K+ monthly accounts across 14+ regions & 147+ branches**
+- 🎯 Targeting **Data Analyst / Data Scientist / Risk Analytics roles**
+- ⚙️ Focus on **turning data into actionable business insights**
+- 🤖 Applying ML where it creates **real impact, not just models**
 
-I believe AI is not just about models — it’s about **systems, scalability, and impact**.
+I believe analytics is not just about dashboards — it’s about **understanding systems, identifying gaps, and driving decisions**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Core
-`Python` • `SQL` • `Statistics` • `Data Structures`
+### 📊 Analytics Core
+`SQL` • `Excel` • `Power BI` • `Python` • `Statistics`
 
-### 🤖 Machine Learning & AI
-`Scikit-learn` • `TensorFlow` • `OpenCV` • `NLP` • `Transformers` • `LLMs`
+### 📈 Business & Risk Analytics
+`Portfolio Analysis` • `Delinquency Tracking` • `KPI Design` • `Cohort Analysis` • `Root Cause Analysis`
 
-### ⚙️ MLOps & Backend
-`FastAPI` • `Docker` • `CI/CD` • `GitHub Actions` • `Model Deployment`
+### 🤖 ML & AI (Applied)
+`Scikit-learn` • `TensorFlow` • `NLP` • `Computer Vision` • `LLMs`
 
-### ☁️ Cloud & Data Engineering
-`AWS (EC2, S3, ECR)` • `Azure (ADF, Databricks)` • `PySpark` • `Delta Live Tables`
+### ⚙️ Engineering & MLOps
+`FastAPI` • `Docker` • `CI/CD` • `GitHub Actions`
 
-### 📊 BI & Analytics
-`Power BI` • `Excel` • `MySQL`
-
----
-
-## 🏆 Featured Projects
-
-### 🛑 DriveAlert  
-Real-time drowsiness detection system deployed on Raspberry Pi  
-- CNN-based eye-state classification  
-- OpenCV + Dlib facial landmark detection  
-- Real-time alert mechanism  
-- Edge deployment optimization  
+### ☁️ Cloud & Data
+`AWS (EC2, S3, ECR)` • `Azure` • `PySpark`
 
 ---
 
-### ☁️ Vehicle Insurance Prediction (MLOps)  
-End-to-end ML pipeline with production deployment  
-- Modular ML architecture  
-- FastAPI inference server  
-- Dockerized deployment  
-- CI/CD pipeline  
-- AWS (EC2, S3, ECR) integration  
+## 🏆 Featured Work
+
+### 📊 Portfolio Risk Analytics – Shriram Finance
+- Analyzed **10K+ monthly accounts** across DPD/SMA buckets  
+- Built **risk MIS dashboards across 14 regions & 147+ branches**  
+- Identified **delinquency patterns & recovery gaps**  
+- Improved reporting efficiency by **40% via automation**  
 
 ---
 
-### 🎬 CineMatch  
-NLP-powered movie recommender  
-- Content-based filtering  
-- Cosine similarity engine  
-- TMDb API integration  
-- Streamlit deployment  
+### 📈 Loan Performance Dashboard
+- Analyzed **37,000+ loan records**  
+- Built **15+ KPIs** for business tracking  
+- Enabled **data-driven decision-making for loan performance**
 
 ---
 
-### 🏅 Azure Olympics Data Pipeline  
-Enterprise-style Data Engineering pipeline  
-- Azure Data Factory orchestration  
-- Databricks transformations  
-- Delta Live Tables  
-- CI/CD using Azure DevOps  
+### ☁️ Vehicle Insurance Prediction (MLOps)
+- Built end-to-end ML pipeline with deployment  
+- Focused on **business use-case: customer conversion prediction**  
+- Integrated CI/CD + AWS deployment  
 
 ---
 
-### 📈 Loan Performance Dashboard  
-Interactive Power BI dashboard  
-- 37,000+ loan records  
-- 15+ KPIs  
-- Backend: MySQL  
-- Business insight driven storytelling  
+### 🛑 DriveAlert (Computer Vision)
+- Real-time drowsiness detection system  
+- Edge deployment on Raspberry Pi  
+
+---
+
+### 🎬 CineMatch (NLP)
+- Recommendation system using similarity modeling  
+- Focus on **user personalization logic**
 
 ---
 
 ## 🔍 Currently Exploring
 
-- Transformer Architectures  
-- RAG Systems  
-- LangChain & Agentic Workflows  
-- Observability for ML Systems  
-- Scalable AI Infrastructure
-- Building a Stateful Multi-Agent AI Blog Generation System (Planner Agent + Research Agent + Writer Agent + Reviewer Agent)
+- Decision Systems in Analytics  
+- A/B Testing & Experimentation  
+- Credit Risk & Fraud Analytics  
+- RAG & LLM Applications in Business Workflows  
+- Scalable Data Pipelines  
 
 ---
 
@@ -111,4 +98,4 @@ Interactive Power BI dashboard
 
 ---
 
-<h4 align="center">Building intelligent systems. One project at a time.</h4>
+<h4 align="center">Turning data into decisions. Scaling insights into impact.</h4>
