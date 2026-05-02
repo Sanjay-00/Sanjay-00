@@ -92,7 +92,7 @@ I believe analytics is not just about dashboards — it’s about **understandin
 
 ## 🌐 Let’s Connect
 
-📧 sanjaydutta2830@gmail.com  
+📧 Mail: sanjaydutta2830@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/sanjay-dutta-9a9240227  
 💻 GitHub: https://github.com/Sanjay-00  
 
