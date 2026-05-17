@@ -23,7 +23,7 @@ Applied AI • Workflow Automation • Underwriting Intelligence
   - Decision Support Tools
 - 🎯 Interested in Applied AI, AI Product Systems, Analytics, and Workflow Intelligence
 
-I enjoy building systems that solve real operational problems — especially where AI, structured reasoning, and business workflows intersect.
+I enjoy building systems that solve real operational problems - especially where AI, structured reasoning, and business workflows intersect.
 
 ---
 
