@@ -22,6 +22,7 @@ Applied AI • Workflow Automation • Underwriting Intelligence
   - Retrieval-Augmented Systems
   - Decision Support Tools
 - 🎯 Interested in Applied AI, AI Product Systems, Analytics, and Workflow Intelligence
+- Currently open to Data Analyst and Applied AI roles in fintech and NBFC/FinTech companies.
 
 I enjoy building systems that solve real operational problems - especially where AI, structured reasoning, and business workflows intersect.
 
