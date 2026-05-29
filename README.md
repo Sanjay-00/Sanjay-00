@@ -49,6 +49,21 @@ I enjoy building systems that solve real operational problems - especially where
 
 # 🏆 Featured Projects
 
+## CollectionIQ - AI-powered portfolio intelligence system for collection leaders.
+
+## What it does
+- Upload portfolio data and ask questions in plain English
+- Generate portfolio summaries instantly
+- Surface collection insights and trends
+- Reduce dependency on manual reporting workflows
+
+### Stack
+`Python` • `Gemini API` • `LangGraph ` • `Pandas` • `Streamlit`
+
+---
+
+
+
 ## 🚘 FinSight - AI-Assisted Underwriting Intelligence
 
 AI-assisted underwriting system for NBFC vehicle loan decisioning.
