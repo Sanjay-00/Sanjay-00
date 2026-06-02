@@ -17,6 +17,7 @@ Applied AI • Workflow Automation • Underwriting Intelligence
 - 📊 Handling portfolio MIS, delinquency analytics, and operational reporting across **147+ branches**
 - ⚙️ Building applied AI systems focused on:
   - Underwriting Intelligence
+  - Collection Analytics
   - Document AI
   - Workflow Automation
   - Retrieval-Augmented Systems
