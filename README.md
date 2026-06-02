@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,312e81,7c3aed,06b6d4&height=250&section=header&text=Sanjay%20Dutta&fontSize=45&fontColor=ffffff&desc=Applied%20AI%20%7C%20Analytics%20%7C%20Decision%20Intelligence&descSize=22&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" />
-
-# Applied AI Engineer | Analytics Professional | Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0a0014,50:1e003d,100:4a148c&section=header&text=Sanjay%20Dutta&fontSize=45&fontColor=ffffff&desc=Applied%20AI%20Engineer%20%7C%20Analytics%20%7C%20Builder&descSize=18&descAlign=50&descAlignY=60&fontAlignY=38&animation=fadeIn" />
 
 ### Transforming Business Workflows into Intelligent Systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Building+AI+Systems+for+Real+Business+Problems;Agentic+Workflows+%7C+Underwriting+Intelligence;Portfolio+Analytics+%7C+Document+AI;LangGraph+%7C+RAG+%7C+FastAPI+%7C+Python;Turning+Information+into+Better+Decisions" />
+
 
 </div>
 
@@ -23,28 +22,73 @@ Open to Applied AI, AI Engineering, and Data Analyst roles.
 
 ---
 
-# Tech Stack
+🛠️ Tech Stack
 
-## Analytics & Data
-`Python` • `SQL` • `Power BI` • `Excel` • `Pandas` • `NumPy`
+### Analytics & Data
 
-## Applied AI & GenAI
-`LangChain` • `LangGraph` • `RAG Systems` • `Gemini API` • `LLMs` • `Prompt Engineering`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-## AI Engineering & MLOps
-`FastAPI` • `Docker` • `GitHub Actions` • `CI/CD` • `MLflow`
+### Applied AI & GenAI
 
-## Cloud & Infrastructure
-`AWS EC2` • `AWS S3` • `AWS ECR` • `MongoDB` • `Azure`
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+</p>
 
-## Document Intelligence
-`PyMuPDF` • `Regex Extraction` • `OpenPyXL` • `OCR Concepts`
+### AI Engineering & MLOps
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
+
+### Document Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/PyMuPDF-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regex_Extraction-5E35B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge"/>
+</p>
 
 ---
 
 # Featured Projects
 
-## [CollectionIQ](https://github.com/Sanjay-00/CollectionIQ)  - AI-powered portfolio intelligence system for collection leaders.
+## CollectionIQ  - AI-powered portfolio intelligence system for collection leaders.
+
+
+<p align="left">
+  <a href="https://collectioniq.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Sanjay-00/CollectionIQ">
+    <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge">
+  </a>
+</p>
 
 ## What it does
 - Upload portfolio data and ask questions in plain English
@@ -60,17 +104,17 @@ Collection teams often spend significant time gathering information, analysing l
 
 `Python` `LangGraph` `Gemini` `Pandas` `Streamlit` `LangSmith`
 
-**Live Demo:** https://collectioniq.streamlit.app/
-
-**Repository:** https://github.com/Sanjay-00/CollectionIQ
-
 ---
 
 
 
-## [FinSight](https://github.com/Sanjay-00/AI-Loan-analysis) - AI-Assisted Underwriting Intelligence
+## FinSight - AI-Assisted Underwriting Intelligence
 
-AI-assisted underwriting system for NBFC vehicle loan decisioning.
+<p align="left">
+  <a href="https://github.com/Sanjay-00/AI-Loan-analysis">
+    <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge">
+  </a>
+</p>
 
 ### Highlights
 - 15 deterministic underwriting and risk validation checks
@@ -84,9 +128,12 @@ AI-assisted underwriting system for NBFC vehicle loan decisioning.
 
 ---
 
-## [AutoCAM](https://github.com/Sanjay-00/CAMpilot) - Automated CIBIL Extraction System
-
-Automates CIBIL report extraction and CAM preparation workflows for credit analysts.
+## AutoCAM - Automated CIBIL Extraction System
+<p align="left">
+  <a href="https://github.com/Sanjay-00/CAMpilot">
+    <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge">
+  </a>
+</p>
 
 ### Impact
 - Reduced manual processing from 30–60 minutes to under 1 minute
@@ -157,4 +204,6 @@ Resume: https://drive.google.com/file/d/1bQNjTaD_cftMpMHPP7cFOpfr_hkacNOc/view
 <h4 align="center">
 Building AI systems that improve operational decision-making.
 </h4>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjay-00&style=for-the-badge&color=blueviolet"/>
+</p>
