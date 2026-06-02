@@ -111,6 +111,9 @@ Collection teams often spend significant time gathering information, analysing l
 ## FinSight - AI-Assisted Underwriting Intelligence
 
 <p align="left">
+   <a href="https://finnsight.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge">
+  </a>
   <a href="https://github.com/Sanjay-00/AI-Loan-analysis">
     <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge">
   </a>
@@ -130,6 +133,9 @@ Collection teams often spend significant time gathering information, analysing l
 
 ## AutoCAM - Automated CIBIL Extraction System
 <p align="left">
+   <a href="https://lcc-pdf-to-excel.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge">
+  </a>
   <a href="https://github.com/Sanjay-00/CAMpilot">
     <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge">
   </a>
