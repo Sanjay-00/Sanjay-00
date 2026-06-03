@@ -201,7 +201,7 @@ Production-style ML pipeline with CI/CD and AWS deployment.
 # Connect With Me
 
 Email: sanjaydutta2830@gmail.com  
-LinkedIn: https://linkedin.com/in/sanjay-dutta-9a9240227  
+LinkedIn: https://linkedin.com/in/sanjay-dutta-ai  
 GitHub: https://github.com/Sanjay-00  
 Resume: https://drive.google.com/file/d/1DmhOvezwLihJKjj3_qgL4OjT8gK8P1jt/view?usp=drivesdk
 
