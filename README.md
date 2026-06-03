@@ -203,7 +203,7 @@ Production-style ML pipeline with CI/CD and AWS deployment.
 Email: sanjaydutta2830@gmail.com  
 LinkedIn: https://linkedin.com/in/sanjay-dutta-9a9240227  
 GitHub: https://github.com/Sanjay-00  
-Resume: https://drive.google.com/file/d/1bQNjTaD_cftMpMHPP7cFOpfr_hkacNOc/view
+Resume: https://drive.google.com/file/d/1DmhOvezwLihJKjj3_qgL4OjT8gK8P1jt/view?usp=drivesdk
 
 ---
 
