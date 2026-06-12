@@ -204,6 +204,7 @@ Email: sanjaydutta2830@gmail.com
 LinkedIn: https://linkedin.com/in/sanjay-dutta-ai  
 GitHub: https://github.com/Sanjay-00  
 Resume: https://drive.google.com/file/d/1O1H15TF0oUDrBsHmPEfSiPk1I9fKTBRA/view?usp=sharing
+Same but better ui: https://sanjay-00.github.io/
 
 ---
 
