@@ -168,7 +168,7 @@ FinSight combines deterministic underwriting rules with AI-assisted reasoning. R
 ## AutoCAM • Automated Bureau Processing
 
 <p align="left">
-   <a href="https://lcc-pdf-to-excel.streamlit.app/">
+   <a href="https://autocam-cibil.streamlit.app/">
     <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge">
   </a>
   <a href="https://github.com/Sanjay-00/CAMpilot">
