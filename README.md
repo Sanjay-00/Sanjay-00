@@ -227,7 +227,7 @@ AutoCAM automates bureau extraction, validates outputs against bureau summaries,
 ---
 
 <h4 align="center">
-Building reliable systems that remove operational bottlenecks.
+Building reliable systems that remove operational bottlenecks and solve real business problems.
 </h4>
 
 <p align="center">
