@@ -210,7 +210,7 @@ AutoCAM automates bureau extraction, validates outputs against bureau summaries,
 # Currently Building
 
 - CollectionIQ v2 - scalability and production level architecture 
-- Enterprise Underwriting Intelligence - advance RAG and evaluation 
+- Enterprise Underwriting Intelligence - Advance RAG and evaluation 
 - AI Evaluation & Reliability
 - Workflow Automation for Lending Operations - ITR & BS Analyser
 
