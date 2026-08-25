@@ -223,7 +223,7 @@ AutoCAM automates bureau extraction, validates outputs against bureau summaries,
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaydutta2830@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-dutta-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-Sanjay--00-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-00)
-[![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bjKQQnBHxNaTOOWUrilUXt4BZ76B-jq8/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EvtBdkVWP871AOohcrK7KedWZL4QfXzR/view?usp=sharing)
 ---
 
 <h4 align="center">
