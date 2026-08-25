@@ -13,7 +13,7 @@
 
 # About Me
 
-I'm an Applied AI Engineer and Portfolio Analytics professional at Shriram Finance.
+I'm an Applied AI and Automation professional at Shriram Finance.
 
 I enjoy understanding how people work, identifying recurring operational bottlenecks, and building reliable systems that eliminate them.
 
@@ -28,7 +28,7 @@ My engineering approach is simple:
 
 I'm currently building AI-assisted systems for lending, portfolio analytics, and workflow automation.
 
-> **Open to Applied AI Engineer, AI Engineer, GenAI Engineer, Analytics Engineer, and Data Analyst opportunities.**
+> **Open to Applied AI Engineer, AI Engineer, GenAI Engineer, Analytics Engineer, and AI Automation opportunities.**
 
 ---
 
