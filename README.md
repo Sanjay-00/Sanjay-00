@@ -13,7 +13,7 @@
 
 # About Me
 
-I'm an Applied AI and Automation professional at Shriram Finance.
+I'm an Applied AI and Automation - Analytics professional at Shriram Finance.
 
 I enjoy understanding how people work, identifying recurring operational bottlenecks, and building reliable systems that eliminate them.
 
