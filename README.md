@@ -217,7 +217,7 @@ AutoCAM automates bureau extraction, validates outputs against bureau summaries,
 
 ---
 
-# Connect With Me
+# Connect With Me 
 
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaydutta2830@gmail.com)
